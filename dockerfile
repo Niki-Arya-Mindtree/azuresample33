@@ -4,4 +4,5 @@ COPY ./pom.xml ./pom.xml
 COPY ./target/AzureSample2-0.0.1-SNAPSHOT.jar ./app.jar
 
 
+
 CMD java -jar app.jar
